@@ -1,0 +1,22 @@
+----------OOP-Library-Management-System-----------
+
+A simple console-based Library Management System developed in C++ using Object-Oriented Programming concepts. This project allows users to add books and members, issue and return books, and manage library records efficiently.
+
+## Features
+- Add Books
+- Add Members
+- Issue Books
+- Return Books
+- Display Book Records
+
+## Technologies Used
+- C++
+- OOP Concepts
+- Console Application
+
+## How to Run
+1. Open the project in any C++ compiler.
+2. Compile the source file.
+3. Run the program.
+
+------END-------
